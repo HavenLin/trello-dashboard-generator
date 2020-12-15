@@ -92,7 +92,7 @@
           <div class="footer">
             <div class="pure-menu pure-menu-horizontal">
               <ul>
-                <li class="pure-menu-item"><a href="https://confluence.expedia.biz/display/LISPod3/LISv2+Pod+3+Home" class="pure-menu-link">About</a></li>
+                <li class="pure-menu-item"><a href="TBD" class="pure-menu-link">About</a></li>
                 <li class="pure-menu-item"><a href="https://github.com/HavenLin/TrelloReportGenerator" class="pure-menu-link">GitHub</a></li>
               </ul>
             </div>
