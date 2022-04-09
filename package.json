@@ -18,7 +18,7 @@
     "highcharts": "^7.0.3",
     "highcharts-vue": "^1.2.0",
     "jquery": "^3.3.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vue": "^2.6.10",
     "vue-router": "^3.0.1",
     "vue2-datepicker": "^2.10.3"
